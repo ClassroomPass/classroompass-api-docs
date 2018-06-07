@@ -1,3 +1,3 @@
 ![Home](/logo.png)
-[Home](/)
-[Passes](passes.md)
+* [Home](/)
+* [Passes](passes.md)
